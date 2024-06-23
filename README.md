@@ -19,4 +19,4 @@
 <p>Click on the buttons labeled "Rock", "Paper", or "Scissors" to make your selection. The computer's choice and the winner of the round will be displayed. Play as many rounds as you like!</p>
 <br>
 
-<p>Game Link: </p>
+<p>Game Link: https://swagatam007.github.io/Stone-Paper-Scissors/</p>
