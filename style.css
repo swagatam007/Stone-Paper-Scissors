@@ -72,3 +72,7 @@ img{
     display: inline;
     margin: 0 2rem;
 }
+
+#reset:hover {
+    cursor: pointer;
+}
